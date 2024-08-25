@@ -47,7 +47,9 @@
         width: 100%;
         text-align: center;
     }
-
+#navbar ul li a {
+	padding: 20px;
+}
     .why-us i.fa {
         transform: rotate(90deg);
     }
